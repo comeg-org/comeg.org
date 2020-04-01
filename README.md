@@ -1,2 +1,2 @@
 # comeg.org
-COnnected Mobility Experts Group
+Connected Mobility Experts Group
